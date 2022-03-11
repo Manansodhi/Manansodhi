@@ -13,12 +13,14 @@
  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
  </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manansodhi&show_icons=true&locale=en&layout=compact" alt="manansodhi" /></p>
-<br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=manansodhi&show_icons=true&locale=en" alt="manansodhi" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manansodhi&theme=dark" alt="manansodhi" /></p>
-<br>
+<p align="center">
+<a href="https://github.com/manansodhi">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=manansodhi&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/manansodhi">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manansodhi&layout=compact&theme=great-gatsby" />
+</a>
+</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/manan-sodhi/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
 <a href="mailto:sodhimanan022@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png"/></a>
