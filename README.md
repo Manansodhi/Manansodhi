@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manan Sodhi</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **Data Structures And Algorithms  + Backend Development with NodeJs**
+- 🌱 I’m currently learning **Data Structures And Algorithms  + Backend Development with Flask**
 
 - 📫 How to reach me **sodhimanan022@gmail.com**
 
